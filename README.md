@@ -1,7 +1,7 @@
 # Hello :wave: I'm Anaël !
 
-> “I'm smart enough to know that i'm dumb.”  
-> — Richard Feynman
+> 💬“I'm smart enough to know that i'm dumb.”  
+> Richard Feynman
 
 
 I work at Inist - CNRS :office:, where I carry out bibliometric studies :bar_chart:.
