@@ -3,10 +3,33 @@
 > 💬“I'm smart enough to know that i'm dumb.”  
 > Richard Feynman
 
-
-I work at Inist - CNRS :office:, where I carry out bibliometric studies :bar_chart:.
-
 I'm not a developer, but I love tinkering with algorithmic problems, playing with data transformations, and working with Lodash, Lodex, EZS and more...
+
+I work at **Inist–CNRS** 🏢, where I contribute to the development and promotion of **Lodex**, a platform designed to publish, explore, and transform datasets.  
+
+I joined **Inist–CNRS in 2021** to work on the **APC survey**, identifying and analyzing **Article Processing Charge (APC) expenditures across CNRS**.  
+
+At the end of **2022**, I joined the **APIL service (Appui au Pilotage Scientifique)** for three years. During this period, I conducted **bibliometric studies** and worked extensively with **Lodex** to explore, transform, and publish research data.  
+
+Since **2026**, I have been responsible for promoting and supporting the use of **Lodex**.  
+
+A blog post presented my work around Lodex:
+
+🔗 [Read the blog post](https://www.lodex.fr/un-nouveau-role-pour-structurer-et-dynamiser-la-communaute-lodex/)
+
+## About Lodex
+
+**Lodex** is a platform designed to facilitate the **publication and exploration of datasets**.  
+It allows datasets to be **published in multiple formats** (CSV, TSV, XML, JSON, etc.) and provides a **back-office environment** where data can be cleaned, transformed, enriched, and prepared for publication.
+
+Lodex is particularly useful for turning complex datasets into **accessible, explorable, and reusable data portals**.
+
+### Useful links
+
+- 🌐 Official Lodex website: https://www.lodex.fr/
+- 💻 Git repository: https://github.com/Inist-CNRS/lodex  
+- 📚 Documentation: https://www.lodex.fr/docs/documentation/
+- ✉️ Mailing list: join the Lodex mailing list by email @ lodex@groupes.renater.fr
 
 ## Here are a few side projects I’ve worked on:
 
