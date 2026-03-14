@@ -29,7 +29,7 @@ Lodex is particularly useful for turning complex datasets into **accessible, exp
 - 🌐 Official Lodex website: https://www.lodex.fr/
 - 💻 Git repository: https://github.com/Inist-CNRS/lodex  
 - 📚 Documentation: https://www.lodex.fr/docs/documentation/
-- ✉️ Mailing list: join the Lodex mailing list by email @ lodex@groupes.renater.fr
+- ✉️ Mailing list: join the Lodex mailing list https://groupes.renater.fr/sympa/info/lodex
 
 ## Here are a few side projects I’ve worked on:
 
