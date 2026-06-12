@@ -3,6 +3,12 @@
 > 💬“I'm smart enough to know that i'm dumb.”  
 > Richard Feynman
 
+![LODEX](https://img.shields.io/badge/LODEx-CNRS-blue)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
+![Lodash](https://img.shields.io/badge/Lodash-4.17-blue)  
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaelKremer&show_icons=true)
+
 I'm not a developer, but I love tinkering with algorithmic problems, playing with data transformations, and working with Lodash, Lodex, EZS and more...
 
 I work at **Inist–CNRS** 🏢, where I contribute to the development and promotion of **Lodex**, a platform designed to publish, explore, and transform datasets.  
